@@ -24,7 +24,8 @@ original cricket players.
   create a league with few users and can see his positionamong the other league players.
   
 ## Software Used:
-- **Backend**: For Backend we have used ***Django*** and ***REST API***
+- **Backend**: For Backend we have used ***Django***
+- **API**:API was built using ***Django REST Framework***
 - **Database**: For Database we have used ***mysql***
 - **Frontend**: For Frontend we have used ***React.js*** 
 
